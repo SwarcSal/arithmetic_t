@@ -1,0 +1,4 @@
+"D:\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Program\c++\arithmetic_t
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Program/c++/arithmetic_t/cmake-build-debug

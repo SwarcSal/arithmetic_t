@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Program/c++/arithmetic_t/main.cpp
+iostream
+-
+vector
+-
+myheap.h
+E:/Program/c++/arithmetic_t/myheap.h
+
+E:/Program/c++/arithmetic_t/myheap.cpp
+myheap.h
+E:/Program/c++/arithmetic_t/myheap.h
+iostream
+-
+vector
+-
+
+E:/Program/c++/arithmetic_t/myheap.h
+iostream
+-
+
